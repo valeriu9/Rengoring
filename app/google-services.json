@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "871191384936",
+    "firebase_url": "https://rengoring-86901.firebaseio.com",
+    "project_id": "rengoring-86901",
+    "storage_bucket": "rengoring-86901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871191384936:android:fa34a170d2f9f0649abcdd",
+        "android_client_info": {
+          "package_name": "com.example.rengoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871191384936-vsm3494ru1addl9r407c05ligtpcp56c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rengoring",
+            "certificate_hash": "01d533bcc9a31a9cd7635f85882f57dcb55446a3"
+          }
+        },
+        {
+          "client_id": "871191384936-6ak5meu4eet28k3oa95s6r1thatg6c3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpAP6r7k3LvHCrOpot0In9WL9vklZ5fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871191384936-6ak5meu4eet28k3oa95s6r1thatg6c3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
